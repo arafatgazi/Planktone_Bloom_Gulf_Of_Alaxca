@@ -1,0 +1,13 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Rrs_488</Description>
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.00023600086569786</MDI>
+      <MDI key="STATISTICS_MAXIMUM">0.0049740001559258</MDI>
+      <MDI key="STATISTICS_MEAN">0.00189159554352</MDI>
+      <MDI key="STATISTICS_STDDEV">0.00081766041229901</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">1.252</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
